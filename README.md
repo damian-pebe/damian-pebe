@@ -16,31 +16,6 @@
 
 ###
 
-<h2 align="left">🌱 I’m currently learning:</h2>
-
-###
-
-<ul>
-  <li>Advanced machine learning techniques.</li>
-  <li>Cloud infrastructure optimizations.</li>
-  <li>Best practices for building and securing APIs.</li>
-  <li>Diving deeper into both SQL and NoSQL databases to expand my data management skills.</li>
-</ul>
-
-###
-
-<h2 align="left">💞️ I’m looking to collaborate on:</h2>
-
-###
-
-<ul>
-  <li>Open-source projects related to web and mobile application development.</li>
-  <li>Scalable backend systems using Flask, Django, Express, or Server Express.</li>
-  <li>Innovative projects utilizing real-time data and PostgreSQL databases.</li>
-</ul>
-
-###
-
 <h2 align="left">I code with</h2>
 
 ###
@@ -70,6 +45,31 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
+
+###
+
+<h2 align="left">🌱 I’m currently learning:</h2>
+
+###
+
+<ul>
+  <li>Advanced machine learning techniques.</li>
+  <li>Cloud infrastructure optimizations.</li>
+  <li>Best practices for building and securing APIs.</li>
+  <li>Diving deeper into both SQL and NoSQL databases to expand my data management skills.</li>
+</ul>
+
+###
+
+<h2 align="left">💞️ I’m looking to collaborate on:</h2>
+
+###
+
+<ul>
+  <li>Open-source projects related to web and mobile application development.</li>
+  <li>Scalable backend systems using Flask, Django, Express, or Server Express.</li>
+  <li>Innovative projects utilizing real-time data and PostgreSQL databases.</li>
+</ul>
 
 ###
 
