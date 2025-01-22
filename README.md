@@ -78,6 +78,6 @@
 ###
 
 <ul>
-  <li><strong>Email</strong>: <a href="mailto:damian-pebe@gmail.com">damian-pebe@gmail.com</a></li>
+  <li><strong>Email</strong>: <a href="mailto:damian.pebe@gmail.com">damian.pebe@gmail.com</a></li>
   <li><strong>WhatsApp</strong>: <a href="https://wa.me/+523322052692">+52 3322052692</a></li>
 </ul>
