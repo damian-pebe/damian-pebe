@@ -3,7 +3,7 @@
 **Senior Full-Stack & AI Engineer | 5+ Years of Experience**  
 Python · FastAPI · PostgreSQL · AWS · React · TypeScript · AI Agents · MCP
 
-[Portfolio](https://damian-pebe.is-a.dev) ·
+[Portfolio](https://damianperez.dev/) ·
 [LinkedIn](https://www.linkedin.com/in/damian-perez-becerril3322052692) ·
 [Email](mailto:damian.pebe@gmail.com)
 
